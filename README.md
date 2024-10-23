@@ -66,6 +66,5 @@ JAGO working dimensions:
   </tr>
 </table>
 
-  </body>
-  
+  </body> 
 </html>
