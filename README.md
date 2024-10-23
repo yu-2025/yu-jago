@@ -59,6 +59,13 @@ JAGO working dimensions:
     <td><a href="https://yu-2025.github.io/yu-jago" target="_blank"><img src="screen/JAGO_START_external.jpg"></a></td>
   </tr>
 </table>
+
+<table border="0">
+  <tr>
+    <td><a href="https://yu-2025.github.io/yu-jago" target="_blank"><img src="screen/JAGO_DERBY_normal.jpg"></a></td>
+  </tr>
+</table>
+
   </body>
   
 </html>
