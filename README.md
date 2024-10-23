@@ -33,7 +33,7 @@ The JAGO platform may be of interest to programmers who need to:
 - use various depository blanks to speed up the solution of your tasks.
 
 JAGO working dimensions:
-- the program uses 6 variable size screens (JAGO_START_normal.jpg) (JAGO_START_external.jpg)
+- the program uses 6 variable size screens (JAGO_START_normal.jpg) (JAGO_START_external.jpg) (JAGO_DERBY_normal.jpg)
 - each screen can have an unlimited number of TABs
 - the program can load different types of packages from the depository
 - each package has ABOUT and HELP in different languages
