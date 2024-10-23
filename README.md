@@ -1,6 +1,5 @@
 # yu-jago
 ==============================
-
 JAGO - platform for designing and developing programs for various purposes (2023)
 
 ==============================
