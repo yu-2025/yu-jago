@@ -1,6 +1,9 @@
 # yu-jago
 ==============================
+
 JAGO - platform for designing and developing programs for various purposes (2023)
+
+==============================
 
 It can use software modules written in Java, Kotlin, Clojure (Lisp), Groovy and Scala.
 Thus, in one software product you can combine six programming languages.
