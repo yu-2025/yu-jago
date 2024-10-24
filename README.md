@@ -2,7 +2,7 @@
 # JAGO - platform for designing and developing programs for various purposes (2023)
 
 It can use software modules written in Java, Kotlin, Clojure (Lisp), Groovy and Scala.
-Thus, in one software product you can combine six programming languages.
+Thus, in one software product you can combine five programming languages.
 
 The platform consists of a core and modules in Java, Kotlin, Clojure, Groovy and Scala,
 downloaded from the depository. An open depository can be replenished by various developers.
